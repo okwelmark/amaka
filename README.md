@@ -19,7 +19,7 @@
     background-repeat: repeat-y;
     background-position: center center;
     background-attachment: fixed;
-    opacity: 0.9;
+    opacity: 0.8;
     background-size: 100%;
     }
           /* Style the navigation bar */
